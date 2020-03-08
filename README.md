@@ -1,4 +1,4 @@
-Armory_Digest
+![](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/March-2020/img/1.jpg)
 
 March edition - 2020
 
