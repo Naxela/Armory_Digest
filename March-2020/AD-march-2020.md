@@ -1,4 +1,4 @@
-![](img/1.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/1.jpg)
 
 ## Armory Digested - March 2020
 
@@ -21,11 +21,11 @@ Another part of it, is that it's largely a one-man project as of now, covering e
 
 - Armorpaint now running on Android through Kinc+Krom. Progress with this also means progress for Armory3D and the engines capabilities on the Android platform.
 
-![](img/2.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/2.jpg)
 
 - Armorpaint awarded a well-deserved megagrant from Epic Games.
 
-![](img/3.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/3.jpg)
 
 ---
 
@@ -35,15 +35,15 @@ Another part of it, is that it's largely a one-man project as of now, covering e
 
 - GetWorld node - Gives you a vector based on the world transform.
 
-![](img/4.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/4.jpg)
 
 - Trait detail view for the debug console - Now shows a tree view outliner, and lists the traits connected to the selected object.
 
-![](img/5.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/5.jpg)
 
 - Postprocessing nodes - Now allows for realtime editing of postprocessing values, such as bloom, SSR, ambient occlusion and also includes a large set of colorgrading options.
 
-![](img/6.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/6.jpg)
 
 - Canvas Font size
 - Exported asset names for trait properties
@@ -111,14 +111,14 @@ here
 **file_write** is an example that shows you how to write files from Krom. The way it works is that it converts a json object to bytes, and saves that information to a file in a specified location.
 This example shows you one of the various ways to save your game data to a file. 
 
-![](img/7.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/7.jpg)
 
 ---
 
 ### Featured tutorial
 - Hologram Effect by Armory Blender (https://www.youtube.com/watch?v=ceRJtU_6TXY)
 
-![](img/8.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/8.jpg)
 
 ---
 
@@ -126,15 +126,15 @@ This example shows you one of the various ways to save your game data to a file.
 
 - Active Games has Offroad Mania on steam! (https://store.steampowered.com/app/1222040/Offroad_Mania/)
 
-![](img/9.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/9.jpg)
 
 - Simonrazer made a multiplayer FPS demo (https://www.youtube.com/watch?v=-Iye7ALplCg)
 
-![](img/10.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/10.jpg)
 
 - m_entent has progress on Grease pencil (Screencap from Discord)
 
-![](img/11.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/11.jpg)
 
 ---
 
@@ -159,46 +159,46 @@ A lot of stuff has happened with Armory. Since the last officially announced Arm
 ## Armory now comes as a Blender addon
 Armory is now mainly a Blender 2.8 addon rathar than a fully packaged solution. This allows you to use whatever flavor of Blender (such as the fasterE-Cycles if you do a lot of texture baking). Installation is as easy as ever:
 
-![](img/12.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/12.jpg)
 
 ## Voxel AO instead of Voxel GI - Voxel GI will be reworked into raytracing
 A few users might have noticed that using Voxels as a way of doing Global Illumination have now been removed. Instead, focus will now be put on implementing raytracing technologies into Armory. This is currently being tested out in Armorpaint (Check out the DXR releases).
 
 In the meantime, Voxel for Ambient Occlusion will still be available as a solution for achieving great ambient shadows.
 
-![](img/13.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/13.jpg)
 
-![](img/15.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/15.jpg)
 
 ## New water, weather and terrain
 While the old water and clouds looked great, the new systems looks even better! An overhaul of the weather system, that includes better water management, water refraction and cloud radiance has been implemented to make your nature scenes even better. On top of that, the new terrain system uses heightmaps, sectors and streaming while still working with physics.
 
-![](img/14.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/14.jpg)
 
 ## Krom patching
 As a result of the default way of providing Armory builds is SDK releases, this means the Blender builds with the integrated V8/Node based viewports aren't there anymore. Instead, the default way of getting real-time output is by turning on Krom Live Patching. This provides the separate Krom window with realtime changes.
 
-![](img/15.gif)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/15.gif)
 
 ## Eye adaption
 Eye adaption / Auto-exposure with histogram have been reworked, and now allows the exposure to transition gradually to the light-settings of various environments. 
 
-![](img/16.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/16.jpg)
 
 ## Haxe compilation server
 By default, Armory now uses a multi-threaded Haxe-based compilation server in the never ending quest for more speed!
 
-![](img/17.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/17.jpg)
 
 ## Clustered rendering
 More performance is good performance! - With the introduction of recent shader models and improved rendering possibilities, Clustered shading/rendering is a way of providing fast high-fidelity graphics.
 
-![](img/18.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/18.jpg)
 
 ## Reflection Probes and Planes
 Work on realtime reflection probes and plane have been done. Reflection Probes and Reflection Planes allows for much higher quality reflection than what Screen-Space Reflections can provide, and at all angles even outside the screen-space.
 
-![](img/19.jpg)
+![](https://github.com/Naxela/Armory_Digest/blob/master/March-2020/img/19.jpg)
 
 New examples and templates:
 - All reworked into B.28
