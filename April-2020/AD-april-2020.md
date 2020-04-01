@@ -1,5 +1,3 @@
-!!?!? OBS! LINKED RAW URLS FOR GITHUB OR IT WON'T WORK!
-
 # Armory Digest April 2020
 
 ![Armory Digest Roundup](1.jpg "April Digest")
