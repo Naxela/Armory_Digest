@@ -4,7 +4,7 @@
 
 April edition - 2020
 
-[Forum] TBD
+[Forum] https://forums.armory3d.org/t/armory-digest-april-2020/3990
 
 [Github] https://github.com/Naxela/Armory_Digest/blob/master/April-2020/AD-april-2020.md 
 
