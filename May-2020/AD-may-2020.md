@@ -1,6 +1,6 @@
 # Armory Digest May 2020
 
-![Armory Digest Roundup](1.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/1.jpg)
 
 ## Small community roundup
 
@@ -14,45 +14,45 @@ It's May, it's rainy (or sunny, or something in between). It's time staying insi
 
 Lubos implemented realtime path-tracing in Armorpaint. The technology is gradually maturing, and it's impressive how responsive it is even when you don't have the newest range of graphics card. Seemingly still only Nvidia/RTX so far, but it's very promising not only for Armorpaint but also for Armory3D.
 
-![Realtime path-tracing](2.jpg)
+![Realtime path-tracing](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/2.jpg)
 
 ### **Minecraft and Unigine Export for Armorpaint**
 
 Support for Minecraft and Unigine material export was added to Armorpaint. Apart from these Armory already supports Unity, Unreal and XPlane.
 
-![Armory Digest Roundup](3.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/3.jpg)
 
-![Armory Digest Roundup](4.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/4.jpg)
 
 ### **Live Brush Preview for Armorpaint**
 
 Preview your brushes in realtime to get quick impression of how it. It's fast, responsive and great workflow improvement!
 
-![Armory Digest Roundup](5.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/5.jpg)
 
 ### **Internationalization added for Armorpaint**
 
 While this commit was added last month by Calinou, Armorpaint have gotten more languages since, including French and Chinese.
 
-![Armory Digest Roundup](6.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/6.jpg)
 
 ### **Blender Live-link for Armorpaint**
 
 PiloeGAO have made a live-link addon for Armorpaint and Blender. For Live-links to other applications, there's support for Unreal Engine, Unity and Maya
 
-![Armory Digest Roundup](7.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/7.jpg)
 
 ### **Sewing in Armorpaint**
 
 Lubos showcased some nice directional brush painting. Really cool and useful feature!
 
-![Armory Digest Roundup](8.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/8.jpg)
 
 ---
 
 ## Armory Community Game Competition #1
 
-![Armory Digest Roundup](16.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/16.jpg)
 
 **Theme**: Little Giant
 
@@ -73,7 +73,7 @@ End: **31st of May, 12:00 CET**
 **Reward:**
 - Competitions are fun, but they're a little more fun if there's something to compete about. That's why I've thrown a little price with tiered 4 possible rewards, and you can choose 2!
 
-![Armory Digest Roundup](9.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/9.jpg)
 
 - **Armorpaint** will be gifted to you on Itch.io. Choosing this reward will provide additional goodwill with support for Lubos and the development of Armory3D and Armorpaint!
 - **Blendermarket** - Select any product on the Blendermarket up to the value of $17. This will also indirectly support the Blender dev fund.
@@ -94,19 +94,19 @@ This months Armory SDK is out, get it on itch: https://armory.itch.io/armory3d
 
 - New "Has contact Array" node (*)
 
-![Armory Digest Roundup](10.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/10.jpg)
 
 - New "Set Checkbox" node (*)
 
-![Armory Digest Roundup](11.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/11.jpg)
 
 - New "On Canvas Element" node (*)
 
-![Armory Digest Roundup](12.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/12.jpg)
 
 - Synchronized proxy trait (*)
 
-![Armory Digest Roundup](13.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/13.jpg)
 
 - "Set UI Scale" method for CanvasScript
 - Value node stored as shader constant
@@ -187,11 +187,11 @@ Contributors:
 
 9987 showcased a game on Discord that he made for a game jam about making terribly bad games - He did alright:
 
-![Armory Digest Roundup](14.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/14.jpg)
 
 Due to the lack of showcased projects, I'll shamelessly mention my own little project, the Airport Lounge.
 
-![Armory Digest Roundup](15.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/15.jpg)
 
 ---
 
@@ -203,9 +203,9 @@ https://github.com/armory3d/armory_examples/tree/master/material_movie
 
 Video texture is an example that shows you how to setup video textures inside Armory3D for the HTML5 platform. The way it works is by converting the provided video with the FFMPEG. It requires the FFMPEG binary path to be provided in the preferences. FFMPEG can be downloaded from here: https://www.ffmpeg.org/download.html
 
-![Armory Digest Roundup](18.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/18.jpg)
 
-![Armory Digest Roundup](19.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/19.jpg)
 
 ---
 
@@ -213,7 +213,7 @@ Video texture is an example that shows you how to setup video textures inside Ar
 
 - Attach Weapon to Character by Armory Blender (https://www.youtube.com/watch?v=WlVQHxOpbE0&t=350s)
 
-![Armory Digest Roundup](17.jpg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/May-2020/17.jpg)
 
 ---
 
