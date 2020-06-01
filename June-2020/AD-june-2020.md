@@ -1,6 +1,6 @@
 Armory Digest June 2020
 
-![Armory Digest Roundup](1.jpeg)
+![Armory Digest Roundup](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/1.jpeg)
 
 ## Small community roundup
 
@@ -10,17 +10,17 @@ It's June now, we're reaching the middle of the year. The first Armory3D Communi
 
 Lubos showcased some stencil masking, stencil mask and brush jitter. This is cool stuff!
 
-![Brush jitter](2.jpg)
+![Brush jitter](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/2.jpg)
 
 Timodriaan (MoritzBrueckner) released Koui - A promising new UI library for Kha and Armory @ https://koui.gitlab.io/
 
-![Competition voting](3.png)
+![Competition voting](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/3.png)
 
 The first Armory3D competition has ended. Time to turn in your projects and vote!
 
 ## Armory Community Game Competition #1 - Voting
 
-![Competition voting](5.jpeg)
+![Competition voting](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/5.jpeg)
 
 The competition has ended and if you haven't posted your competition game entry yet? Hurry up! Due to unforeseen technical errors with the forum registration system, the voting will be postponed for 3 days. In case you're not able to create a user here, you can still participate by:
 
@@ -56,11 +56,11 @@ This months Armory SDK is out, get it on itch: https://armory.itch.io/armory3d
 - Add loop option for PlaySoundRawNode
 - Add optional sampling rate for PlaySoundRawNode
 
-![Competition voting](6.jpg)
+![Competition voting](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/6.jpg)
 
 - Allow Armory3D to set custom play scene
 
-![Competition voting](4.jpg)
+![Competition voting](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/4.jpg)
 
 - Fix proper debug console log output formatting
 - Fix for running blender in background mode
@@ -130,27 +130,27 @@ Contributors: Lubos, MoritzBrueckner, QuantumCoder, tong, kennylerma
 
 https://www.youtube.com/watch?v=tgJ64E8dTLI
 
-![Competition voting](7.jpg)
+![Competition voting](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/7.jpg)
 
 **ArmoryBlender** showcased a cool video with a gravity gun example similar to Half-Life 2:
 
 https://www.youtube.com/watch?v=vdKPN9VefE
 
-![Competition voting](8.jpg)
+![Competition voting](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/8.jpg)
 
 **ArmoryBlender** showcased an aura effect on Twitter, to be posted on youtube soon:
 
-![Competition voting](9.jpg)
+![Competition voting](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/9.jpg)
 
 ## **Featured Example**
 
 Debug_draw is an example that shows you how to utilize the debugging options in Armory, showing the selected object with a box around, allowing you to find objects in scenes with many elements.
 
-![File example](10.jpg)
+![File example](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/10.jpg)
 
 https://github.com/armory3d/armory_examples/tree/master/debug_draw
 
-![Debug Draw](11.jpg)
+![Debug Draw](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/11.jpg)
 
 ## **Featured tutorial**
 
@@ -158,9 +158,9 @@ Armory3D - FPS Shooting
 
 This Jayanam tutorial shows you how to setup a first person shooter example and guides you through the setup and Haxe code:
 
-![FPS Tutorial](12.jpg)
+![FPS Tutorial](https://raw.githubusercontent.com/Naxela/Armory_Digest/master/June-2020/12.jpg)
 
-Link
+https://www.youtube.com/watch?v=41JFd6EadzA
 
 ## Support Armory and the ecosystem
 
