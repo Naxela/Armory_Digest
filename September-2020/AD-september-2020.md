@@ -7,11 +7,11 @@ both holidays, workload and perhaps a tiny bit of lazyness.
 
 # News:
 
-## Changes to the Digest format**
+## Changes to the Digest format
 
 I've decided to change the format for the Digest to be a quarterly newsletter instead of a monthly one. In that way, there's more time to focus on tutorials and articles rather than just a brief overview with some half-written rushed articles. This also leaves me more time when I'm busy with work.
 
-## Progress, progress, progress!**
+## Progress, progress, progress!
 
 ![Progress](2.png)
 
@@ -38,7 +38,7 @@ It's finally landed, lightmapping have been underway for about a year and a half
 - Added Shader Uniform support
 - Addes ShaderData node
 
-![Lightmapping](5.jpg)
+![ShaderData](5.jpg)
 
 - Improved quaternion and angle handling in logic nodes
 - Exposed depth targets through uniforms
@@ -66,7 +66,7 @@ And many more: https://github.com/armory3d/armory/commits/master
 
 - New icons added
 
-![Lightmapping](6.jpg)
+![New Icons](6.jpg)
 
 - Save window rectangle on Darwin/OSX
 - Improved node preview
